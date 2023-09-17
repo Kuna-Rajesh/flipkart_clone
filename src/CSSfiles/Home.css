@@ -1,0 +1,271 @@
+.header{
+  color: #fc9109;
+}
+.Home1{
+   height: 500px;
+   font: 16px proximanova,Arial, Helvetica, sans-serif;
+}
+.Home_left{
+   float: left;
+   width:60%;
+   height: 100%;
+}
+.Home_right{
+  float: right;
+  height: 100%;
+  width:40%;
+}
+.Home_Header{
+  float: right;
+  width: 75%;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: 50px;
+  height: 100px;
+}
+.Head_account{
+  display: flex;
+  justify-content: center;
+  width: 60%;
+}
+.Head_login{
+  border: 0;
+  background-color: white;
+  padding: 10px 30px;
+  color: black;
+  text-decoration: none;
+}
+.Head_login:hover{
+  color: #fc9109;
+}
+.Head_sign{
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.Home_logo{
+  width: 40%;
+}
+.Home_food{
+  width:100%;
+  height: 100%;
+}
+.ques{
+  margin: 140px 0px 0px 0px;
+  font-weight: bold;
+  
+}
+.head2food{
+  color: rgb(182, 169, 169);
+}
+.ques{
+  margin-top: 75px;
+}
+.searchbox{
+  display: flex;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 3% 0%;
+}
+.searchbtn{
+  padding : 3% 60% 3% 0%;
+  font-size: 20px;
+  border: 1px solid black;
+}
+.searchbox:focus{
+  border: 1px solid #fc9109;
+}
+.Homebtn{
+  padding-left: 8%;
+  border: 1px solid black;
+  border-left: none;
+  border-right: none;
+  background-color: white;
+}
+.Homebtn2{
+  border: 1px solid black;
+  font-weight: bold;
+  letter-spacing: 1px;
+  background-color: #fc9109;
+  color: white;
+}
+.listbox{
+  display: flex;
+  overflow: hidden;
+  
+}
+.city{
+  padding-right: 20px;
+  color: gray;
+  font-size: 18px;
+  text-decoration: none;
+}
+.city:nth-child(odd){
+  font-weight: bold;
+}
+.Home2{
+  height: 403px;
+  background-color: #2b1e16;
+  padding: 0px 20px;
+}
+.Home2sub{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.img1{
+  width:30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.img2{
+  height: 45%;
+}
+.home2h2{
+  color: white;
+}
+.home2p{
+  color:gray;
+  text-align: center;
+  margin: 0px 50px;
+}
+.home3{
+  height:500px;
+}
+.home3l{
+ float: left;
+ width: 50%;
+ height: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction:column;
+}
+.home3lf{
+  display: flex;
+  flex-direction: column;
+  float: right;
+  width: 50%;
+}
+.home3l1{
+  height: 50%;
+  font-size: 32px;
+  font-weight: bold;
+}
+.home3l2{
+  height: 50%;
+  font-size: 20px;
+  align-items: center;
+  color: gray;
+}
+.home3l3{
+  margin-top: 30px;
+}
+
+.home3l3m{
+  width: 170px;
+  height: 54px;
+}
+.m2{
+  padding-right: 20px;
+}
+.home3r{
+  float: right;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  position: relative;
+}
+
+.home3rimg1{
+  height: 500px;
+}
+.home3rimg2{
+  height: 500px;
+  position: absolute;
+  right: 5%;
+}
+.home4{
+  background-color:black;
+  padding: 0px 20px;
+  height: 720px;
+  justify-content: center;
+}
+.h4detials{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 5%;
+  color: white;
+}
+.h4detialsc{
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.h4detialsh{
+  color: gray;
+  font-weight: bold;
+}
+.h4detialsl{
+
+}
+.h4i{
+  width: 50%;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+.h4i2{
+  margin-top: 5%;
+}
+.h4l{
+  margin: 15px 0px 0px;
+}
+.h4br{
+  background-color:white;
+  float: center;
+  width: 85%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.h4cities{
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.h4citiesp{
+  margin: 20px 0px 0px;
+}
+.footer{
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  color: white;
+}
+.footerlogo{
+  width: 200px;
+  height: 50px;
+}
+.footerp{
+  font-weight: bold;
+}
+.footercommunications{
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footerimg{
+  width: 35px;
+  height: 40px;
+  padding-right:10px;
+}
