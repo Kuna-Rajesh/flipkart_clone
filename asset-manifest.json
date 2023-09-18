@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flipkart_clone/static/css/main.489c0c6c.css",
-    "main.js": "/flipkart_clone/static/js/main.816f6dd2.js",
+    "main.js": "/flipkart_clone/static/js/main.eedb367c.js",
     "static/js/787.2efe7c38.chunk.js": "/flipkart_clone/static/js/787.2efe7c38.chunk.js",
     "static/media/Home_left.webp": "/flipkart_clone/static/media/Home_left.98a76472fb591e8b84d9.webp",
     "static/media/sec3i4.webp": "/flipkart_clone/static/media/sec3i4.52898333c627ccf59193.webp",
@@ -19,11 +19,11 @@
     "static/media/footertwitter.webp": "/flipkart_clone/static/media/footertwitter.89ce6d6ee1cc1330ab15.webp",
     "static/media/footerfb.webp": "/flipkart_clone/static/media/footerfb.28fd0d772c7b049cdc30.webp",
     "main.489c0c6c.css.map": "/flipkart_clone/static/css/main.489c0c6c.css.map",
-    "main.816f6dd2.js.map": "/flipkart_clone/static/js/main.816f6dd2.js.map",
+    "main.eedb367c.js.map": "/flipkart_clone/static/js/main.eedb367c.js.map",
     "787.2efe7c38.chunk.js.map": "/flipkart_clone/static/js/787.2efe7c38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.489c0c6c.css",
-    "static/js/main.816f6dd2.js"
+    "static/js/main.eedb367c.js"
   ]
 }
